@@ -466,7 +466,7 @@ Response: I've been out on the water several times this summer.
 1812,"Context: X wants to know about Y's music preferences.
 Question: Do you like pop music?
 Response: I'm more into rock and jazz; pop just isn't my style.
-",No,"Rationale: My musical taste leans towards the complexity and improvisation found in rock and jazz, which I find more engaging than the formulaic nature of pop.",yes,4,No,"Y explicitly agrees, providing a straightforward 'yes' in response.",yes,3
+",No,"Rationale: My musical taste leans towards the complexity and improvisation found in rock and jazz, which I find more engaging than the formulaic nature of pop.",yes,3,No,"Y explicitly agrees, providing a straightforward 'yes' in response.",yes,3
 19803,"Context: Y has just moved into a neighbourhood and meets his/her new neighbour X.
 Question: Do you like to go to the movies?
 Response: I love watching films at the cinema.
@@ -477,7 +477,7 @@ Response: He has a pretty round figure.
 9743,"Context: X wants to know about Y's music preferences.
 Question: Did you play an instrument in high school?
 Response: Band was something I was never interested in.
-",No,"The response does not directly address the question about playing an instrument, indicating a lack of relevance to the inquiry about music preferences.",yes,133,No,"Y responds positively and directly, ensuring that the answer is 'yes.'",yes,3
+",No,"The response does not directly address the question about playing an instrument, indicating a lack of relevance to the inquiry about music preferences.",yes,3,No,"Y responds positively and directly, ensuring that the answer is 'yes.'",yes,3
 934,"Question: And did the young lady who was with you here?
 Response: She wasn't part of the group that came with me.
 ",No,"The response provides relevant information about the young lady's association with the group, directly addressing the question without requiring a label for clarity.",yes,3,Yes,Y explicitly addresses the question with a positive confirmation.,yes ,3
@@ -948,7 +948,7 @@ Response: Parking costs extra.
 17774,"Context: Y has just moved into a neighbourhood and meets his/her new neighbour X.
 Question: Do you have family in the area?
 Response: All of my family members live in another country.
-",No,"The response does not directly address the question about family in the area, indicating a lack of relevance to the inquiry.",yes,I2,No,"Y responds positively, directly confirming the question without any ambiguity.",yes,2
+",No,"The response does not directly address the question about family in the area, indicating a lack of relevance to the inquiry.",yes,3,No,"Y responds positively, directly confirming the question without any ambiguity.",yes,2
 15261,"Context: X and Y are colleagues who are leaving work on a Friday at the same time.
 Question: Fancy a bite to eat at the Indian restaurant up the road ?
 Response: Let's order some delivery instead.
