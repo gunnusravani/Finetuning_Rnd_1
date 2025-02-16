@@ -43,7 +43,7 @@ Response: I’m really open to new opportunities, so relocating wouldn't be a pr
 19964,"Context: X and Y are childhood neighbours who unexpectedly run into each other at a cafe.
 Question: Did you hear a about our friend John's marriage?
 Response: That's news to me.
-",No,"The response ""That's news to me"" indicates surprise and a lack of prior knowledge about John's marriage, but does not provide a clear stance or label regarding the information itself.",No,3,No,"Y’s reply offers a straightforward confirmation, clearly indicating a 'yes.'",Yes,3
+",No,"The response ""That's news to me"" indicates surprise and a lack of prior knowledge about John's marriage, but does not provide a clear stance or label regarding the information itself.",No,1,No,"Y’s reply offers a straightforward confirmation, clearly indicating a 'yes.'",Yes,3
 2095,"Context: Y has just told X that he/she is considering switching his/her job.
 Question: Are you wanting creative fulfillment in your work?
 Response: It would be nice to have
@@ -203,7 +203,7 @@ Response: The scenery was really beautiful along the way, and I loved listening 
 17002,"Context: X and Y are childhood neighbours who unexpectedly run into each other at a cafe.
 Question: Have you tried cake pops?
 Response: They're too sweet.
-",Yes,"The response ""They're too sweet"" indicates a personal preference that directly addresses the question about cake pops, supporting a ""Yes"" label as it implies familiarity with the item.",yes.,3,No,"Y's reply offers insight into a related subject, but the lack of a direct answer suggests the response could be interpreted as a 'no.'",yes,2
+",Yes,"The response ""They're too sweet"" indicates a personal preference that directly addresses the question about cake pops, supporting a ""Yes"" label as it implies familiarity with the item.",yes,3,No,"Y's reply offers insight into a related subject, but the lack of a direct answer suggests the response could be interpreted as a 'no.'",yes,2
 3649,"Context: Y has just travelled from a different city to meet X.
 Question: Would you like to meet my new boyfriend?
 Response: I would really enjoy getting to know him.
@@ -1385,7 +1385,7 @@ Response: I'm not really in a position to secure tickets at the moment.
 24105,"Context: Y has just travelled from a different city to meet X.
 Question: Was the airport crowded?
 Response: It was insane.
-",Yes,"The response ""It was insane"" conveys a strong impression of overcrowding, effectively supporting a ""Yes"" label to the question about the airport's crowd levels.",yes,3,No,"Y provides a response that touches on an adjacent topic, but does not directly confirm the question, suggesting the answer is likely 'no.'",yes,
+",Yes,"The response ""It was insane"" conveys a strong impression of overcrowding, effectively supporting a ""Yes"" label to the question about the airport's crowd levels.",yes,3,No,"Y provides a response that touches on an adjacent topic, but does not directly confirm the question, suggesting the answer is likely 'no.'",yes,3
 12013,"Context: X wants to know about Y's music preferences.
 Question: Do you listen to new music every Friday?
 Response: I listen to new music everyday.
