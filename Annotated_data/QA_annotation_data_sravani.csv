@@ -43,11 +43,11 @@ Response: I’m really open to new opportunities, so relocating wouldn't be a pr
 19964,"Context: X and Y are childhood neighbours who unexpectedly run into each other at a cafe.
 Question: Did you hear a about our friend John's marriage?
 Response: That's news to me.
-",No,"The response ""That's news to me"" indicates surprise and a lack of prior knowledge about John's marriage, but does not provide a clear stance or label regarding the information itself.",No,3,No,"Y’s reply offers a straightforward confirmation, clearly indicating a 'yes.'",yes,3
+",No,"The response ""That's news to me"" indicates surprise and a lack of prior knowledge about John's marriage, but does not provide a clear stance or label regarding the information itself.",No,1,No,"Y’s reply offers a straightforward confirmation, clearly indicating a 'yes.'",yes,3
 2095,"Context: Y has just told X that he/she is considering switching his/her job.
 Question: Are you wanting creative fulfillment in your work?
 Response: It would be nice to have
-",Yes,"The response ""It would be nice to have"" indicates a desire for creative fulfillment, suggesting that Y is indeed interested in this aspect of their work, thus supporting a ""Yes"" label.",yes,3,No,"Y gives a related answer, but the question itself remains unaddressed, suggesting that the response is a 'no.'",No,2
+",Yes,"The response ""It would be nice to have"" indicates a desire for creative fulfillment, suggesting that Y is indeed interested in this aspect of their work, thus supporting a ""Yes"" label.",yes,2,No,"Y gives a related answer, but the question itself remains unaddressed, suggesting that the response is a 'no.'",No,2
 19166,"Context: X and Y are colleagues who are leaving work on a Friday at the same time.
 Question: Will you have some time to relax this weekend?
 Response: I’m looking forward to finally catching up on some shows and just unwinding.
@@ -81,7 +81,7 @@ Response: I'd rather listen to some Maroon 5.
 6326,"Context: Y has just moved into a neighbourhood and meets his/her new neighbour X.
 Question: Have you been downtown yet?
 Response: I'm going next weekend.
-",No,"The response ""I'm going next weekend"" does not directly address the question about whether Y has been downtown yet, indicating a lack of relevance to the inquiry.",yes,3,No,"Y explicitly affirms the question, indicating a clear and confident 'yes.'",yes,2
+",No,"The response ""I'm going next weekend"" does not directly address the question about whether Y has been downtown yet, indicating a lack of relevance to the inquiry.",yes,2,No,"Y explicitly affirms the question, indicating a clear and confident 'yes.'",yes,2
 12561,"Context: X wants to know what activities Y likes to do during weekends.
 Question: Do you enjoy water sports?
 Response: I could do anything on the water.
@@ -96,7 +96,7 @@ Response: I got the feeling there might have been some misunderstandings about p
 15187,"Context: X wants to know what sorts of books Y likes to read.
 Question: Have you ever read any of the classics?
 Response: A few of them.
-",Yes,"The response ""A few of them"" indicates that Y has engaged with classic literature, directly affirming the question and supporting a ""Yes"" label.",yes,3,No,"The response provides insight but fails to address the question head-on, suggesting an implied 'no.'",yes,2
+",Yes,"The response ""A few of them"" indicates that Y has engaged with classic literature, directly affirming the question and supporting a ""Yes"" label.",yes,2,No,"The response provides insight but fails to address the question head-on, suggesting an implied 'no.'",yes,2
 25416,"Context: Y has just travelled from a different city to meet X.
 Question: Do you have a nice trip?
 Response: It was a wonderful journey, thanks for asking!
@@ -139,7 +139,7 @@ Response: While I didn't attend college, I've gained a lot of practical experien
 24936,"Context: Y has just told X that he/she is thinking of buying a flat in New York.
 Question: Is it too expensive?
 Response: It will be tough to afford it.
-",Yes,"The response indicates financial concern, suggesting that the cost of the flat is likely high, thus supporting the notion that it may indeed be too expensive.",yes,2,No,"Y discusses related points, but the key question remains unanswered, indicating that the response might lean towards 'no.'",yes,2
+",Yes,"The response indicates financial concern, suggesting that the cost of the flat is likely high, thus supporting the notion that it may indeed be too expensive.",yes,3,No,"Y discusses related points, but the key question remains unanswered, indicating that the response might lean towards 'no.'",yes,2
 4866,"Question: Doctor, will he be alright?
 Response: He appears to be responded well to the treatment.
 ",Yes,"The answer suggests a positive outcome by indicating that the patient is responding well to treatment, which supports the notion that he will be alright.",yes,2,No,"Y gives a related answer, but the question itself remains unaddressed, suggesting that the response is a 'no.'",yes,2
@@ -176,7 +176,7 @@ Response: I often listen to instrumental while working.
 18145,"Context: X wants to know what sorts of books Y likes to read.
 Question: Do you prefer to read hardbacks ?
 Response: I prefer audiobooks actually.
-",No,"The response from Y does not directly address the question about hardbacks, indicating a preference for a different format without providing a clear label for the type of books they enjoy.",yes,2,No,"Y responds affirmatively, providing an explicit confirmation that aligns with the question.",yes,2
+",No,"The response from Y does not directly address the question about hardbacks, indicating a preference for a different format without providing a clear label for the type of books they enjoy.",yes,3,No,"Y responds affirmatively, providing an explicit confirmation that aligns with the question.",yes,2
 14910,"Context: X wants to know about Y's music preferences.
 Question: Do you listen to new music every Friday?
 Response: I don't make it a habit.
@@ -195,7 +195,7 @@ Response: That could be a good arrangement, especially if it helps with the cost
 20886,"Context: Y has just told X that he/she is thinking of buying a flat in New York.
 Question: Are there any bedrooms?
 Response: There are definitely going to be bedrooms in the flat!
-",Yes,"Rationale: Given that flats typically include designated sleeping areas, it is reasonable to affirm the presence of bedrooms in the flat being considered.",yes,3,No,"Y's statement includes relevant information but fails to answer directly, implying an implied 'no.'",yes,2
+",Yes,"Rationale: Given that flats typically include designated sleeping areas, it is reasonable to affirm the presence of bedrooms in the flat being considered.",yes,2,No,"Y's statement includes relevant information but fails to answer directly, implying an implied 'no.'",yes,2
 15187,"Context: Y has just travelled from a different city to meet X.
 Question: Did you enjoy your drive here?
 Response: The scenery was really beautiful along the way, and I loved listening to my favorite playlist during the drive.
@@ -250,7 +250,7 @@ Response: I'm allergic to dairy and gluten.
 ",Yes,"The response clearly indicates specific dietary restrictions, directly addressing the question about food preferences.",yes,3,No,"Y provides context but stops short of answering the question, indicating an implied negative response.",yes,3
 5800,"Question: Are you dressed up to go to bingo?
 Response: I'm just wearing something comfortable for a casual evening at home.
-",No,"The response indicates a preference for comfort over formality, suggesting that the individual is not preparing for an outing, thus negating the need for a label.",yes,3,Yes,Y replies with a statement that clearly confirms the positive intent.,yes,2
+",No,"The response indicates a preference for comfort over formality, suggesting that the individual is not preparing for an outing, thus negating the need for a label.",yes,2,Yes,Y replies with a statement that clearly confirms the positive intent.,yes,2
 7009,"Context: X wants to know what activities Y likes to do during weekends.
 Question: Do you enjoy going to the movies?
 Response: I go once a week.
@@ -258,15 +258,15 @@ Response: I go once a week.
 5012,"Context: X wants to know about Y's music preferences.
 Question: Do you have a favorite singer?
 Response: I like all kinds of singers.
-",No,"The response does not specify a favorite singer, thus it does not directly answer the question posed by X.",yes,3,No,Y provides a confident statement that directly supports an affirmative answer to the question.,yes,2
+",No,"The response does not specify a favorite singer, thus it does not directly answer the question posed by X.",yes,2,No,Y provides a confident statement that directly supports an affirmative answer to the question.,yes,2
 11170,"Context: X and Y are colleagues who are leaving work on a Friday at the same time.
 Question: Looking forward to a couple days off?
 Response: I'm actually looking forward to returning to work in a week.
-",No,"The response from Y indicates a preference for work over leisure, suggesting a positive attitude towards their job rather than a typical expectation of relaxation during time off.",yes,3,No,Y's response not only affirms the question but adds a positive statement to reinforce the answer.,yes,2
+",No,"The response from Y indicates a preference for work over leisure, suggesting a positive attitude towards their job rather than a typical expectation of relaxation during time off.",yes,2,No,Y's response not only affirms the question but adds a positive statement to reinforce the answer.,yes,2
 13121,"Context: Y has just told X that he/she is considering switching his/her job.
 Question: Is it in the same industry?
 Response: I'm switching to modeling.
-",No,"The response does not directly address the question about the industry, as it only specifies a new job role without clarifying whether it is within the same industry or not.",yes,3,No,"Y’s response directly aligns with the question, affirming the positive intent clearly.",yes,2
+",No,"The response does not directly address the question about the industry, as it only specifies a new job role without clarifying whether it is within the same industry or not.",yes,2,No,"Y’s response directly aligns with the question, affirming the positive intent clearly.",yes,2
 18083,"Context: X wants to know what activities Y likes to do during weekends.
 Question: Have you gone down to the river?
 Response: I have never been there
@@ -278,7 +278,7 @@ Response: It's technical computer work.
 7374,"Context: X and Y are childhood neighbours who unexpectedly run into each other at a cafe.
 Question: Do you like where you're working?
 Response: I find it a bit challenging to get excited about my job lately.
-",No,Rationale: The lack of excitement about my job lately stems from a feeling of stagnation and unfulfillment in my current role.,yes,2,No,"Y's answer directly supports the question, affirming the positive outcome.",yes,3
+",No,Rationale: The lack of excitement about my job lately stems from a feeling of stagnation and unfulfillment in my current role.,yes,3,No,"Y's answer directly supports the question, affirming the positive outcome.",yes,3
 6075,"Question: Who do you think I should call?
 Response: It might be better to reach out to someone who's a bit more familiar with the details.
 ",No,"The response suggests a preference for consulting someone with more expertise, rather than directly answering the question, thus it does not provide a specific label or recommendation.",yes,2,Yes,Y provides a clear response that directly answers the question with an affirmative.,yes,2
@@ -400,7 +400,7 @@ Response: Whats that bar like up there ?
 15413,"Context: Y has just moved into a neighbourhood and meets his/her new neighbour X.
 Question: Do you have kids?
 Response: Not yet
-",No,"The response ""Not yet"" implies a future possibility without directly addressing the current situation, indicating that Y is not ready to label their status regarding children.",yes,3,No,"Y explicitly agrees with the subject, directly affirming the positive answer.",yes,2
+",No,"The response ""Not yet"" implies a future possibility without directly addressing the current situation, indicating that Y is not ready to label their status regarding children.",yes,2,No,"Y explicitly agrees with the subject, directly affirming the positive answer.",yes,2
 10892,"Context: X wants to know what sorts of books Y likes to read.
 Question: Are you a fan of fiction?
 Response: I enjoy all types of books.
@@ -466,7 +466,7 @@ Response: I've been out on the water several times this summer.
 1812,"Context: X wants to know about Y's music preferences.
 Question: Do you like pop music?
 Response: I'm more into rock and jazz; pop just isn't my style.
-",No,"Rationale: My musical taste leans towards the complexity and improvisation found in rock and jazz, which I find more engaging than the formulaic nature of pop.",yes,3,No,"Y explicitly agrees, providing a straightforward 'yes' in response.",yes,3
+",No,"Rationale: My musical taste leans towards the complexity and improvisation found in rock and jazz, which I find more engaging than the formulaic nature of pop.",yes,4,No,"Y explicitly agrees, providing a straightforward 'yes' in response.",yes,3
 19803,"Context: Y has just moved into a neighbourhood and meets his/her new neighbour X.
 Question: Do you like to go to the movies?
 Response: I love watching films at the cinema.
@@ -477,7 +477,7 @@ Response: He has a pretty round figure.
 9743,"Context: X wants to know about Y's music preferences.
 Question: Did you play an instrument in high school?
 Response: Band was something I was never interested in.
-",No,"The response does not directly address the question about playing an instrument, indicating a lack of relevance to the inquiry about music preferences.",yes,3,No,"Y responds positively and directly, ensuring that the answer is 'yes.'",yes,3
+",No,"The response does not directly address the question about playing an instrument, indicating a lack of relevance to the inquiry about music preferences.",yes,133,No,"Y responds positively and directly, ensuring that the answer is 'yes.'",yes,3
 934,"Question: And did the young lady who was with you here?
 Response: She wasn't part of the group that came with me.
 ",No,"The response provides relevant information about the young lady's association with the group, directly addressing the question without requiring a label for clarity.",yes,3,Yes,Y explicitly addresses the question with a positive confirmation.,yes ,3
@@ -511,7 +511,7 @@ Response: it is very tasty
 8102,"Context: X wants to know about Y's music preferences.
 Question: Do you like jazz?
 Response: I usually gravitate towards rock and pop music; they really resonate with me.
-",No,I usually gravitate towards rock and pop music; they really resonate with me because their energy and emotional depth align with my personal experiences and tastes.,Yes,1,No,"Y’s reply offers a straightforward confirmation, clearly indicating a 'yes.'",yes,2
+",No,I usually gravitate towards rock and pop music; they really resonate with me because their energy and emotional depth align with my personal experiences and tastes.,Yes,2,No,"Y’s reply offers a straightforward confirmation, clearly indicating a 'yes.'",yes,2
 28026,"Context: X wants to know what sorts of books Y likes to read.
 Question: Are you interested in mysteries?
 Response: Sherlock Holmes is my favorite character.
@@ -566,7 +566,7 @@ Response: Not since last year
 ",Yes,"The response indicates a past experience with music festivals, suggesting an ongoing interest in music, which supports a ""Yes"" label regarding Y's music preferences.",yes,3,No,"The response from Y includes some context, but the core question remains unanswered, suggesting a negative response.",yes,3
 3592,"Question: Is he rich ?
 Response: I think he prioritizes experiences over material wealth.
-",No,"The response shifts the focus from wealth to values, indicating that richness is subjective and not solely defined by material possessions.",yes,3,Yes,Y provides a clear response that directly answers the question with an affirmative.,yes,2
+",No,"The response shifts the focus from wealth to values, indicating that richness is subjective and not solely defined by material possessions.",yes,2,Yes,Y provides a clear response that directly answers the question with an affirmative.,yes,2
 23359,"Context: Y has just moved into a neighbourhood and meets his/her new neighbour X.
 Question: Are you enjoying living here?
 Response: Can't complain so far.
@@ -579,7 +579,7 @@ Response: Of course not, I enjoy hearing your thoughts!
 ",No,"The response encourages continued dialogue, emphasizing the value of the speaker's contributions rather than suggesting silence.",yes,3,Yes,Y provides a clear response that directly answers the question with an affirmative.,yes,3
 3064,"Question: Is she tall?
 Response: She's about average height, not particularly tall.
-",No,"The response provides a nuanced description of height without directly affirming or denying the label of ""tall,"" making it more informative than a simple label would be.",yes,2,Yes,"Y's response clearly indicates their positive stance, supporting an affirmative answer.",yes,2
+",No,"The response provides a nuanced description of height without directly affirming or denying the label of ""tall,"" making it more informative than a simple label would be.",yes,3,Yes,"Y's response clearly indicates their positive stance, supporting an affirmative answer.",yes,2
 14637,"Context: Y has just moved into a neighbourhood and meets his/her new neighbour X.
 Question: Do you like to BBQ during the summer?
 Response: I like to grill as often as I can.
@@ -640,7 +640,7 @@ Response: I've seen three bands live.
 5069,"Context: X wants to know what sorts of books Y likes to read.
 Question: Are you more of a fiction or non-fiction reader?
 Response: I find myself getting lost in the details of real-life stories rather than the imaginative worlds of fiction.
-",No,"Rationale: I prefer the authenticity and relatability of real-life stories, as they resonate more deeply with my personal experiences than the escapism of fiction.",yes,3,No,"Y’s reply clearly aligns with the question, providing an affirmative response.",yes,2
+",No,"Rationale: I prefer the authenticity and relatability of real-life stories, as they resonate more deeply with my personal experiences than the escapism of fiction.",yes,2,No,"Y’s reply clearly aligns with the question, providing an affirmative response.",yes,2
 8122,"Context: Y has just travelled from a different city to meet X.
 Question: Do you hate crowds?
 Response: sometimes I do
@@ -948,7 +948,7 @@ Response: Parking costs extra.
 17774,"Context: Y has just moved into a neighbourhood and meets his/her new neighbour X.
 Question: Do you have family in the area?
 Response: All of my family members live in another country.
-",No,"The response does not directly address the question about family in the area, indicating a lack of relevance to the inquiry.",yes,2,No,"Y responds positively, directly confirming the question without any ambiguity.",yes,2
+",No,"The response does not directly address the question about family in the area, indicating a lack of relevance to the inquiry.",yes,I2,No,"Y responds positively, directly confirming the question without any ambiguity.",yes,2
 15261,"Context: X and Y are colleagues who are leaving work on a Friday at the same time.
 Question: Fancy a bite to eat at the Indian restaurant up the road ?
 Response: Let's order some delivery instead.
@@ -1546,7 +1546,7 @@ Response: We should start a book club.
 11211,"Context: X wants to know what sorts of books Y likes to read.
 Question: Have you read Harry Potter?
 Response: I wasn't a kid anymore when they were published.
-",No,"The response from Y does not directly answer the question about their reading preferences, indicating a lack of relevance to the inquiry about their interest in Harry Potter.",yes,2,No,"Y offers a confident 'yes,' leaving no doubt about the affirmative answer.",yes,2
+",No,"The response from Y does not directly answer the question about their reading preferences, indicating a lack of relevance to the inquiry about their interest in Harry Potter.",yes,3,No,"Y offers a confident 'yes,' leaving no doubt about the affirmative answer.",yes,2
 2359,"Context: Y has just told X that he/she is thinking of buying a flat in New York.
 Question: Have you found a job up there?
 Response: I have a few offers
